@@ -10,4 +10,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8100/eureka/,http://localhost:8110/eureka/
       
-foo: 123456
+foo: 111111111111111
